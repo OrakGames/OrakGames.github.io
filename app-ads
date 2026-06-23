@@ -8,7 +8,7 @@
 <body>
     <h1>Contenido de app-ads.txt</h1>
     <pre id="content"></pre>
-    
+    <google.com, pub-1133283222593880, DIRECT, f08c47fec0942fa0>
     <script>
         fetch('/app-ads.txt')
             .then(response => response.text())
